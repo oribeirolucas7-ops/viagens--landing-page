@@ -90,5 +90,5 @@ Possíveis melhorias futuras incluem responsividade avançada, animações com C
 
 Autor
 
-Lucas Ribeiro 
+Lucas Ribeiro - 
 Programa DEVstart
